@@ -1,2 +1,0 @@
-# settings
-Settings for osdp

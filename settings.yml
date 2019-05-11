@@ -5,6 +5,7 @@ osdp:
   username: james-knott
   password: mypassword
   project: company
+  configs: https://github.com/james-knott/configuration.git
   platform: vagrant 
   runtime: python3.6
   dockerhubusername: buildmystartup

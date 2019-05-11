@@ -4,6 +4,7 @@ osdp:
   linux: amazon   # So we can develop AWS Lambda with same python version
   username: james-knott
   password: mypassword
+  configs: https://github.com/james-knott/configuration.git
   project: company
   platform: vagrant 
   runtime: python3.6

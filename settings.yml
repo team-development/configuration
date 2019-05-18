@@ -11,6 +11,7 @@ osdp:
   dockerhubusername: buildmystartup
   dockerhubpassword: mypassword
   imagename: buildmystartup/ghettolabs:python3.6
+  github: https://github.com/james-knott/amazon.git
   pushto: ghettolabs/python
   dockerhome: /Users
   dockerdeveloperimage: buildmystartup/ghettolabs:python3.6

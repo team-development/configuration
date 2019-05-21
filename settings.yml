@@ -14,3 +14,4 @@ osdp:
   dockerhome: /User
   pushto: ghettolabs/python
   dockerdeveloperimage: buildmystartup/ghettolabs:python3.6
+  github: https://github.com/james-knott/amazon.git
